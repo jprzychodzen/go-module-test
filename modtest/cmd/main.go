@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	_ "github.com/jprzychodzen/go-module-test/moda"
+	_ "github.com/jprzychodzen/go-module-test/moda/pkg"
 )
 
-func main {
+func main () {
 	fmt.Println("Hello World")
 }
