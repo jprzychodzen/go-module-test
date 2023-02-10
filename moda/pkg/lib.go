@@ -5,5 +5,5 @@ import (
 )
 
 func init() {
-	fmt.Println("moda")
+	fmt.Println("moda-v2")
 }
